@@ -1,0 +1,23 @@
+{
+  "name": "koa-movie-trailer",
+  "version": "1.0.0",
+  "description": "learn koa2",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://118.24.35.65:10080/Life_Only/koa-movie-trailer.git"
+  },
+  "keywords": [
+    "koa2",
+    "movie"
+  ],
+  "author": "Onlyil",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
