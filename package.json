@@ -18,6 +18,7 @@
   "author": "Onlyil",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.5.3"
+    "koa": "^2.5.3",
+    "puppeteer": "^1.9.0"
   }
 }
