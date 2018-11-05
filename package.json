@@ -18,7 +18,9 @@
   "author": "Onlyil",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "koa": "^2.5.3",
-    "puppeteer": "^1.9.0"
+    "puppeteer": "^1.9.0",
+    "qiniu": "^7.2.1"
   }
 }
