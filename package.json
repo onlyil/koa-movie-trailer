@@ -20,6 +20,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "koa": "^2.5.3",
+    "mongoose": "^5.3.16",
     "puppeteer": "^1.9.0",
     "qiniu": "^7.2.1"
   }
